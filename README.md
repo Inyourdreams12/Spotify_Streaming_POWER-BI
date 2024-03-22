@@ -23,5 +23,7 @@ This report analyzes Spotify streaming data from 2017 to 2023, exploring various
 <br/>
 - Blinding Lights by The Weeknd (nearly 4 billion streams), Shape of You by Ed Sheeran (3.6 billion streams), and Someone You Loved by Lewis Capaldi (2.9 billion streams) all represent the Pop genre to some extent. This suggests that Pop music remains a highly popular choice among Spotify users.
 <br/>
-- Blinding Lights, released in late 2019, continues to be streamed heavily, indicating its long-lasting popularity among listeners.
+- Blinding Lights, released in late 2019, continues to be streamed heavily, indicating its long-lasting popularity among listeners. <br/>
+<br/>
+<br/>
 - The top-streamed song has achieved a stream count that is 6.2 times higher than the average number of streams per year (514.14 million streams). This indicates exceptional popularity compared to the typical listening behavior on Spotify.
