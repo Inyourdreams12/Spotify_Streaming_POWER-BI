@@ -32,4 +32,7 @@ This report analyzes Spotify streaming data from 2017 to 2023, exploring various
 - Most songs in were released on Fridays, with the highest number of releases occurring in May, November, October, and December. "New Music Friday" has become a common practice in the music industry, with many artists and labels strategically releasing new songs on Fridays to potentially capitalize on increased weekend listening activity.<br/>
 <br/>
 <br/>
-- Analyzing the number of tracks released by day of the week, with Friday consistently showing the highest numbers across years, directly reveals the release patterns and confirms the ongoing trend of "New Music Friday" within the industry.
+- Analyzing the number of tracks released by day of the week, with Friday consistently showing the highest numbers across years, directly reveals the release patterns and confirms the ongoing trend of "New Music Friday" within the industry.<br/>
+<br/>
+<br/>
+- A 64% average energy value might indicate a balance between high-energy (fast, upbeat) and low-energy (slower, mellow) music on Spotify. Users might enjoy a mix of energetic tracks for workouts or parties and calmer music for relaxation or focus.
