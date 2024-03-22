@@ -8,7 +8,7 @@ This report analyzes Spotify streaming data from 2017 to 2023, exploring various
 • What are the top 10 most streamed songs during the years? <br/>
 • How does the average number of streams per year compare to the platform's user growth rate? <br/>
 • Are there any specific periods with a significant increase or decrease in the number of tracks released? <br/>
-• Does the day of the week distribution of releases remain consistent across all years analyzed?
+• Does the day-of-the-week distribution of releases remain consistent across all years analyzed?
 
 <pre>
 
@@ -26,4 +26,10 @@ This report analyzes Spotify streaming data from 2017 to 2023, exploring various
 - Blinding Lights, released in late 2019, continues to be streamed heavily, indicating its long-lasting popularity among listeners. <br/>
 <br/>
 <br/>
-- The top-streamed song has achieved a stream count that is 6.2 times higher than the average number of streams per year (514.14 million streams). This indicates exceptional popularity compared to the typical listening behavior on Spotify.
+- The top-streamed song has achieved a stream count that is 6.2 times higher than the average number of streams per year (514.14 million streams). This indicates exceptional popularity compared to the typical listening behavior on Spotify.<br/>
+<br/>
+<br/>
+- Most songs in were released on Fridays, with the highest number of releases occurring in May, November, October, and December. "New Music Friday" has become a common practice in the music industry, with many artists and labels strategically releasing new songs on Fridays to potentially capitalize on increased weekend listening activity.<br/>
+<br/>
+<br/>
+- Analyzing the number of tracks released by day of the week, with Friday consistently showing the highest numbers across years, directly reveals the release patterns and confirms the ongoing trend of "New Music Friday" within the industry.
